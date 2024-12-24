@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
-import { supabase } from '../supabaseClient';
+import { supabase } from "./supabaseClient";
 import './App.css';
 
 function App() {
