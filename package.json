@@ -1,0 +1,11 @@
+{
+  "name": "ai-satoshi-task-dapp",
+  "version": "1.0.0",
+  "description": "Task DApp",
+  "scripts": {
+    "supabase": "supabase"
+  },
+  "devDependencies": {
+    "supabase": "^2.1.1"
+  }
+}
